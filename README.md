@@ -1,2 +1,4 @@
 # hello-world
-Just create new repository
+Hi humans!
+
+Buddhadev here.I like C programming.
